@@ -5,7 +5,7 @@ import plotly as pt
 import plotly.express as px
 import altair as alt
 
-df=pd.read_csv('C:/Users/lenovo/Downloads/world_risk_index.csv')
+df=pd.read_csv('world_risk_index.csv')
 st.title("World Risk Analysis")
 #st.write(df)
 
